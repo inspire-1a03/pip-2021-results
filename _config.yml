@@ -1,8 +1,8 @@
 title: Patterns in the Pandemic, 2021 - <Your Name>                 # *** Enter your name here
 subtitle: 'An INSPIRE 1A03 Module'
 
-remote_theme: scds/just-the-docs                                    # don't edit this. 
-color_scheme: mcmaster                                              # don't edit this. 
+remote_theme: pmarsceill/just-the-docs                              # don't edit this. 
+# color_scheme: dark                                                # Uncomment this if you would like to use dark mode. 
 
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
