@@ -13,7 +13,7 @@ nav_order: 3
 <!-- Paste your embed code for your figure below-->
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends below-->
+<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
 
 
@@ -25,7 +25,7 @@ nav_order: 3
 <!-- Paste your embed code for your figure below-->
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends below-->
+<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
 
 ---
@@ -36,7 +36,7 @@ nav_order: 3
 <!-- Paste your embed code for your figure below-->
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends below-->
+<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
 ## 4. Reflection 
 > What are your initial thoughts about using Tableau vs. Google Sheets? What might be the advantages of each? 

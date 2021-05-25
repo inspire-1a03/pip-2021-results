@@ -13,7 +13,7 @@ nav_order: 4
 <!-- Paste your embed code for your figure below-->
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends below-->
+<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
 
 ---
@@ -25,7 +25,7 @@ nav_order: 4
 <!-- Paste your embed code for your figure below-->
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends below-->
+<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
 
 ---
@@ -37,3 +37,5 @@ nav_order: 4
 
 <!-- Paste your embed code for your figure below-->
 
+#### Summary
+<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->

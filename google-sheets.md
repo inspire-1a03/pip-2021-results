@@ -12,7 +12,7 @@ nav_order: 2
 <!-- Paste your embed code for your figure below-->
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends below-->
+<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
 ---
 
@@ -22,7 +22,7 @@ nav_order: 2
 <!-- Paste your embed code for your figure below-->
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends below-->
+<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
 ---
 
@@ -32,7 +32,7 @@ nav_order: 2
 <!-- Paste your embed code for your figure below-->
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends below-->
+<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
 ---
 
@@ -42,7 +42,7 @@ nav_order: 2
 <!-- Paste your embed code for your figure below-->
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends below-->
+<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
 ## Final reflection
 > What inferences can you make from the data you have explored and visualized? 
